@@ -11,8 +11,8 @@ OpenCore based EFI for Dell Latitude E5450
 
 - macOS Mojave 10.14.6
 - macOS Catalina 10.15.7
-- macOS BigSur 11.7.2
-- macOS Monterey 12.6.2
+- macOS BigSur 11.7.3
+- macOS Monterey 12.6.3
 
 
 ## System Configuration
